@@ -9,3 +9,7 @@ Amplify.configure(outputs);
 export default function App({ Component, pageProps }: AppProps) {
   return <Component {...pageProps} />;
 }
+
+
+// サンドボックスなしでやってみる　
+//サンドボックスは作成しできるパソコンでやってみる
